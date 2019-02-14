@@ -1,0 +1,12 @@
+h1 {
+  font-size: 72px;
+  color: #FF1589
+}
+
+.container {
+  display: flex;
+  height: 75vh;
+  justify-content: center;
+  align-items: center;
+}
+
