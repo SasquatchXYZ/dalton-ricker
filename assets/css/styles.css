@@ -22,5 +22,9 @@ h1 {
 }
 
 .colored {
-  font-size: 8rem;
+  font-size: 400%;
+}
+
+body {
+  background-color: #f25b35;
 }
